@@ -9,6 +9,8 @@ public class TestesDeMusica {
 		
 		System.out.println("Meu primeiro Programa em Java");
 		System.out.println("Escrevendo música");
+		System.out.println("kkkkk ");
+		
 	}
 
 }
